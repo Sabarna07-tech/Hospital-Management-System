@@ -47,7 +47,7 @@ Follow these steps to set up and run the Hospital Management System locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/Sabarna07-tech/Hospital-Management-System.git)
 cd Hospital-DataBase-Management
 ```
 
@@ -70,7 +70,7 @@ It's recommended to use a virtual environment for dependency management.
 
 ```bash
 python -m venv venv
-source venv/bin/activate   # On Windows: `venv\Scripts\activate`
+ venv\Scripts\activate
 ```
 Install the required Python packages:
 
