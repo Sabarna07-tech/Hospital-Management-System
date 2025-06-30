@@ -47,7 +47,8 @@ Follow these steps to set up and run the Hospital Management System locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone [<repository_url>](https://github.com/Sabarna07-tech/Hospital-Management-System.git)
+git clone https://github.com/Sabarna07-tech/Hospital-Management-System.git
+
 cd Hospital-DataBase-Management
 ```
 
